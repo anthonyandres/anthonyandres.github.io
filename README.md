@@ -25,11 +25,6 @@ For a couple years i've dabbled in music production. The latest and largest proj
 https://github.com/user-attachments/assets/c182e853-7420-4476-9a07-a9b884518f8a
 
 
-
-https://github.com/user-attachments/assets/d98a169f-9532-4ad0-bb7b-1e4a74da9b0a
-
-
-
 ## Apron and Tote Bag
 I've always been interested in expressing my creativity in as many ways as I can, and to no suprise I found interest in doing so by sewing. Although I am still very new to sewing, I aim to hone my skills enough so that I can create my own patterns as well as modify patterns of existing clothing that I particularily like. For my first sewing project I decided to start simple and create an apron and tote bag. This experience allowed me to really understand and get a feel for the sewing machine. I decided to use multiple types of fabrics, as a result this allowed to learn first hand about various sewing topics like tension, types of needles, speed of sewing, as well as overall practice handling the machine.
 
