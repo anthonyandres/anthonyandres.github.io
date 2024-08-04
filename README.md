@@ -117,3 +117,8 @@ A very very primitive test on sculpting
 <video width="320" height="240" controls loop="" muted="" autoplay="">
   <source src="https://github.com/user-attachments/assets/f259b903-2d16-4557-a400-b52d2b883f81">
 </video>
+
+## Photography
+I also have knowledge in photography. I enjoy both film and digital photography and have come to learn and understand topics pertaining to both mediums, though many topics carry over between the two. Even though I am currently doing photography as an amateur hobbyist, I very much enjoy learning the technical side of things if this portfolio has not been evident enough! My current cameras are a Canon eos m100, Nikon F2, and Canon TX. Film photography has really helped me learn about how the different settings on a camera effect the final product image.
+![PXL_20240804_032729688 MP](https://github.com/user-attachments/assets/674f3e96-1668-4ec1-8375-306979a7598e)
+gotta love a good waist-level viewfinder!
