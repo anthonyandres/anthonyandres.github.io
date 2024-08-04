@@ -24,10 +24,12 @@ One of the largest interests I have is music and analog technology, and what bet
   <source src="https://github.com/anthonyandres/anthonyandres.github.io/raw/main/assets/yume.mp4">
 </video>
 
+
 ### My second modded crt
 <video width="320" height="240" controls loop="" muted="" autoplay="">
   <source src="https://github.com/anthonyandres/anthonyandres.github.io/raw/main/assets/jackson.mp4">
 </video>
+
 
 ## Ableton Live 11 Projects
 For a couple years i've dabbled in music production. The latest and largest project i've done yet is remaking the instrumental of [_Nemurumachi_](https://www.youtube.com/watch?v=ePBjUMEeqBw) by Yama. Not only was it very fun to break down the components of the song, but I also tried my best to mix and master the instruments. This project really allowed me to understand and learn the digital audio workspace (DAW) workflow.
@@ -42,10 +44,12 @@ The project in the ableton DAW
 </video>
 
 
+
 ## Apron and Tote Bag
 I've always been interested in expressing my creativity in as many ways as I can, and to no suprise I found interest in doing so by sewing. Although I am still very new to sewing, I aim to hone my skills enough so that I can create my own patterns as well as modify patterns of existing clothing that I particularily like. For my first sewing project I decided to start simple and create an apron and tote bag. This experience allowed me to really understand and get a feel for the sewing machine. I decided to use multiple types of fabrics, as a result this allowed to learn first hand about various sewing topics like tension, types of needles, speed of sewing, as well as overall practice handling the machine.
 ![apron](https://github.com/user-attachments/assets/66a94ad5-9435-4b43-955b-00b7dd93beb2)
 ![tote](https://github.com/user-attachments/assets/26a23f36-6fdc-4be1-a5d0-a97cd9d9af0e)
+
 
 ## DIY Amplifier Circuit for USB Microphone
 Once again combining analog technology and music/audio! This time I followed DIY Perks video on his USB-C microphone. I used his design for the amplifier circuit and USB connectivity, but used a microphone that I wired together using this [JLI microphone capsule](https://www.jlielectronics.com/microphone-capsules/jli-2555bxz3-gp/).
