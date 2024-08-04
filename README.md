@@ -11,11 +11,6 @@
 - DIY Amplifier Circuit for USB Microphone (_March 2022_)
 - Hand Soldered Microphone (_January 2022_)
 
-## Work Experience
-**Pharmacy Assistant @ Shoppers Drug Mart (_June 2019 - Oct 2021_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
 ## Walkman WM-F73 Repair 
 Got my hands on a walkman in decent physical condition. Took a look on the inside to find that the electrolytic capacitors had gone bad and leaked electrolytic solution all over the PCB. The nice thing about repairing older electronics is that almost always user repair was made much simpler with the availability of service manuals. I took a look at the layout of the faulty components and simply replaced them. the capacitors that were replaced were SMD or surface-mount devices. These types of components are mostly very small and are no easy task to solder. Thankfully, i've got enough experience soldering to know the proper conditions while soldering to ensure no damage. 
 
