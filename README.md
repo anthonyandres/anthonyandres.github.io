@@ -4,9 +4,10 @@
 
 #### Technical Skills: Java, C, Python, Blender, Soldering, Sewing, Ableton Live 11, FL Studio, Davinci Resolve
 
-#### [Youtube](https://www.youtube.com/@anthong_/videos)
+#### [My Youtube Channel](https://www.youtube.com/@anthong_/videos)
 My youtube channel contains other projects including digital drawings, custom keyboard projects, and videography!
 
+<br>
 ## List of Projects
 - Walkman WM-F73 Repair (_August 2024_)								       		
 - CRT Television Modification (_July 2024 & October 2023_)
