@@ -18,12 +18,22 @@ My youtube channel contains other projects including digital drawings, custom ke
 - DIY Amplifier Circuit for USB Microphone (_March 2022_)
 - Hand Soldered Microphone (_January 2022_)
 
+<br>
 ## Walkman WM-F73 Repair 
 Got my hands on a walkman in decent physical condition. Took a look on the inside to find that the electrolytic capacitors had gone bad and leaked electrolytic solution all over the PCB. The nice thing about repairing older electronics is that almost always user repair was made much simpler with the availability of service manuals. I took a look at the layout of the faulty components and simply replaced them. the capacitors that were replaced were SMD or surface-mount devices. These types of components are mostly very small and are no easy task to solder. Thankfully, i've got enough experience soldering to know the proper conditions while soldering to ensure no damage. 
+![pcbclose](https://github.com/user-attachments/assets/c6b88b00-0e5e-40ad-9d9b-5813e31832c4)
+![pcb](https://github.com/user-attachments/assets/498fa600-9b29-4194-9314-5adb454ff2d2)
+![aftermath](https://github.com/user-attachments/assets/d34801a3-a8ab-418e-8ee2-e60d57b72c1b)
 
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+  <source src="https://github.com/anthonyandres/anthonyandres.github.io/raw/main/assets/73.mp4">
+</video>
+
+<br>
 ## CRT Television Modification
 One of the largest interests I have is music and analog technology, and what better way to enjoy those hobbies than by combining them! CRT, or cathode ray tube, televisions make use of electrons fired at a specific surface to create images that we see on a screen. We can modify the CRT within a television to act similarily to how oscilloscopes function by feeding the CRT with an audio signal instead. This modification is simple enough in terms of soldering, since it only requires soldering audio wires to specific points of the CRT. However, there is some danger in doing so, since CRT televisions deal with very high voltages, it is very very important to discharge any points of high charge before touching around inside. 
 
+<br>
 ### My first modded CRT
 <video width="320" height="240" controls loop="" muted="" autoplay="">
   <source src="https://github.com/anthonyandres/anthonyandres.github.io/raw/main/assets/yume.mp4">
