@@ -1,59 +1,35 @@
 # Anthony Andres - Portfolio 2024
 
-#### Walkman WM-F73 Repair
+#### This website contains relevant projects outside of any projects done for school that are listed elsewhere in my GitHub account!
 
-# Data Scientist
+#### Technical Skills: Java, C, Python, Blender, Soldering, Sewing, Music Production/Audio Design 
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## List of Projects
+- Walkman WM-F73 Repair (_August 2024_)								       		
+- CRT Television Modification (_July 2024 & October 2023_)	 			        		
+- Apron and Tote Bag (_August 2023_)
+- DIY Amplifier Circuit for USB Microphone (_March 2022_)
+- Hand Soldered Microphone (_January 2022_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Pharmacy Assistant @ Shoppers Drug Mart (_June 2019 - Oct 2021_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+## Walkman WM-F73 Repair 
+Got my hands on a walkman in decent physical condition. Took a look on the inside to find that the electrolytic capacitors had gone bad and leaked electrolytic solution all over the PCB. The nice thing about repairing older electronics is that almost always user repair was made much simpler with the availability of service manuals. I took a look at the layout of the faulty components and simply replaced them. the capacitors that were replaced were SMD or surface-mount devices. These types of components are mostly very small and are no easy task to solder. Thankfully, i've got enough experience soldering to know the proper conditions while soldering to ensure no damage. 
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## CRT Television Modification
+One of the largest interests I have is music and analog technology, and what better way to enjoy those hobbies than by combining them! CRT, or cathode ray tube, televisions make use of electrons fired at a specific surface to create images that we see on a screen. We can modify the CRT within a television to act similarily to how oscilloscopes function by feeding the CRT with an audio signal instead. This modification is simple enough in terms of soldering, since it only requires soldering audio wires to specific points of the CRT. However, there is some danger in doing so, since CRT televisions deal with very high voltages, it is very very important to discharge any points of high charge before touching around inside. 
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+## Apron and Tote Bag
+I've always been interested in expressing my creativity in as many ways as I can, and to no suprise I found interest in doing so by sewing. Although I am still very new to sewing, I aim to hone my skills enough so that I can create my own patterns as well as modify patterns of existing clothing that I particularily like. For my first sewing project I decided to start simple and create an apron and tote bag. This experience allowed me to really understand and get a feel for the sewing machine. I decided to use multiple types of fabrics, as a result this allowed to learn first hand about various sewing topics like tension, types of needles, speed of sewing, as well as overall practice handling the machine.
+
+## DIY Amplifier Circuit for USB Microphone
+Once again combining analog technology and music/audio! This time I followed DIY Perks video on his USB-C microphone. I used his design for the amplifier circuit and USB connectivity, but used a microphone that I wired together using this [JLI microphone capsule](https://www.jlielectronics.com/microphone-capsules/jli-2555bxz3-gp/).
+[DIY Perks microphone](https://www.youtube.com/watch?v=LoQu3XXIayc)
+
+## Hand Soldered Microphone
+Not to be confused with the microphone I talked about in the above section, but this microphone is meant to be used with any audio interface that provides 48V phantom power. For this project I used [DJJules](https://www.instructables.com/OPA-Based-Alice-Microphones-a-Cardioid-and-a-Figur/) OPA based microphones that he worked together with JLI Electronics to create PCB's for. This was the most simple of my projects as it just required basic soldering skills to complete.
 
 ![EEG Band Discovery](assets/headshot.jpg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](assets/headshot.jpg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
