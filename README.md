@@ -62,6 +62,9 @@ https://github.com/user-attachments/assets/6940710f-ec30-4420-9a58-a63c77df77e7
 
 https://github.com/user-attachments/assets/f259b903-2d16-4557-a400-b52d2b883f81
 
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+  <source src="https://github.com/anthonyandres/anthonyandres.github.io/raw/main/assets/0001-0040.mov">
+</video>
 
 #### 
 
