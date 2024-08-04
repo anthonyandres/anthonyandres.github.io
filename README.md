@@ -10,6 +10,7 @@ My youtube channel contains other projects including digital drawings, custom ke
 ## List of Projects
 - Walkman WM-F73 Repair (_August 2024_)								       		
 - CRT Television Modification (_July 2024 & October 2023_)
+- Solenoid Keyboard (_September 2023_)
 - Ableton Live 11 Projects (_2020-Present_)	 			        		
 - Apron and Tote Bag (_August 2023_)
 - Blender Projects (_2020-Present_)
@@ -27,13 +28,24 @@ One of the largest interests I have is music and analog technology, and what bet
   <source src="https://github.com/anthonyandres/anthonyandres.github.io/raw/main/assets/yume.mp4">
 </video>
 
-
+<br>
 ### My second modded crt
 <video width="320" height="240" controls loop="" muted="" autoplay="">
   <source src="https://github.com/anthonyandres/anthonyandres.github.io/raw/main/assets/jackson.mp4">
 </video>
 
+<br>
+## Solenoid Keyboard
+Keyboards are a big hobby of mine, Learning QMK firmware was a challenge but rewarding as I was able to make one of my favorite keyboards! This project also required me to use my arduino knowledge.
+<iframe width="320" height="240"
+src="https://www.youtube.com/watch?v=1ImH3Stc3gg">
+</iframe>
 
+<iframe width="320" height="240"
+src="https://www.youtube.com/watch?v=31qJe-EGoQ8">
+</iframe>
+
+<br>
 ## Ableton Live 11 Projects
 For a couple years i've dabbled in music production. The latest and largest project i've done yet is remaking the instrumental of [_Nemurumachi_](https://www.youtube.com/watch?v=ePBjUMEeqBw) by Yama. Not only was it very fun to break down the components of the song, but I also tried my best to mix and master the instruments. This project really allowed me to understand and learn the digital audio workspace (DAW) workflow.
 
@@ -46,14 +58,13 @@ The project in the ableton DAW
   <source src="https://github.com/anthonyandres/anthonyandres.github.io/raw/main/assets/nemurumachi%20-%20instrumental%20new%20mix.mov">
 </video>
 
-
-
+<br>
 ## Apron and Tote Bag
 I've always been interested in expressing my creativity in as many ways as I can, and to no suprise I found interest in doing so by sewing. Although I am still very new to sewing, I aim to hone my skills enough so that I can create my own patterns as well as modify patterns of existing clothing that I particularily like. For my first sewing project I decided to start simple and create an apron and tote bag. This experience allowed me to really understand and get a feel for the sewing machine. I decided to use multiple types of fabrics, as a result this allowed to learn first hand about various sewing topics like tension, types of needles, speed of sewing, as well as overall practice handling the machine.
 ![apron](https://github.com/user-attachments/assets/66a94ad5-9435-4b43-955b-00b7dd93beb2)
 ![tote](https://github.com/user-attachments/assets/26a23f36-6fdc-4be1-a5d0-a97cd9d9af0e)
 
-
+<br>
 ## DIY Amplifier Circuit for USB Microphone
 Once again combining analog technology and music/audio! This time I followed DIY Perks video on his USB-C microphone. I used his design for the amplifier circuit and USB connectivity, but used a microphone that I wired together using this [JLI microphone capsule](https://www.jlielectronics.com/microphone-capsules/jli-2555bxz3-gp/).
 [DIY Perks microphone](https://www.youtube.com/watch?v=LoQu3XXIayc)
@@ -67,6 +78,7 @@ The project box and internals
 ![micsolder](https://github.com/user-attachments/assets/3ce7ca3a-69d1-42e8-85c9-40721215f35b)
 The microphone used for this amplifier
 
+<br>
 ## Hand Soldered Microphone
 Not to be confused with the microphone I talked about in the above section, but this microphone is meant to be used with any audio interface that provides 48V phantom power. For this project I used [DJJules](https://www.instructables.com/OPA-Based-Alice-Microphones-a-Cardioid-and-a-Figur/) OPA based microphones that he worked together with JLI Electronics to create PCB's for. This was the most simple of my projects as it just required basic soldering skills to complete.
 
@@ -75,7 +87,7 @@ Not to be confused with the microphone I talked about in the above section, but 
 ![solderingcaps](https://github.com/user-attachments/assets/d2aaeaa5-82bd-4ed4-9793-0b1221d31513)
 I found a neumann u87 fake on aliexpress, probably the only "neumann" i'll own in my life. The full metal construction was what drew me in for the price it was offered at.
 
-
+<br>
 ## Blender Projects
 here are some very basic blender projects I did during the majority of 2020. There are more projects within blender that I have not rendered out.
 
@@ -121,7 +133,14 @@ A very very primitive test on sculpting
   <source src="https://github.com/user-attachments/assets/f259b903-2d16-4557-a400-b52d2b883f81">
 </video>
 
-## Photography
+<br>
+## Photography/Videography
 I also have knowledge in photography. I enjoy both film and digital photography and have come to learn and understand topics pertaining to both mediums, though many topics carry over between the two. Even though I am currently doing photography as an amateur hobbyist, I very much enjoy learning the technical side of things if this portfolio has not been evident enough! My current cameras are a Canon eos m100, Nikon F2, and Canon TX. Film photography has really helped me learn about how the different settings on a camera effect the final product image.
+
 ![PXL_20240804_032729688 MP](https://github.com/user-attachments/assets/674f3e96-1668-4ec1-8375-306979a7598e)
 gotta love a good waist-level viewfinder!
+
+<iframe width="320" height="240"
+src="https://www.youtube.com/watch?v=5G_6HsCKeYg">
+</iframe>
+An example of some fun small videos I like to edit
