@@ -66,8 +66,6 @@ Not to be confused with the microphone I talked about in the above section, but 
 ![neumann](https://github.com/user-attachments/assets/0af28219-1d8b-4bb6-b0e6-4ae74ad3771c)
 ![internalmic](https://github.com/user-attachments/assets/42e33b5f-fe9e-40ea-8c6d-c1d8a4959c78)
 ![solderingcaps](https://github.com/user-attachments/assets/d2aaeaa5-82bd-4ed4-9793-0b1221d31513)
-![solderingxlr](https://github.com/user-attachments/assets/24797a12-e3ce-4015-a68a-1eb7264c9c08)
-
 I found a neumann u87 fake on aliexpress, probably the only "neumann" i'll own in my life. The full metal construction was what drew me in for the price it was offered at.
 
 
