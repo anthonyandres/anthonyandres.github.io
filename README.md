@@ -39,11 +39,11 @@ One of the largest interests I have is music and analog technology, and what bet
 ## Solenoid Keyboard
 Keyboards are a big hobby of mine, Learning QMK firmware was a challenge but rewarding as I was able to make one of my favorite keyboards! This project also required me to use my arduino knowledge.
 <iframe width="320" height="240"
-src="https://www.youtube.com/watch?v=1ImH3Stc3gg">
+src="https://www.youtube.com/embed/1ImH3Stc3gg">
 </iframe>
 
 <iframe width="320" height="240"
-src="https://www.youtube.com/watch?v=31qJe-EGoQ8">
+src="https://www.youtube.com/embed/31qJe-EGoQ8">
 </iframe>
 
 <br>
@@ -142,6 +142,6 @@ I also have knowledge in photography. I enjoy both film and digital photography 
 gotta love a good waist-level viewfinder!
 
 <iframe width="320" height="240"
-src="https://www.youtube.com/watch?v=5G_6HsCKeYg">
+src="https://www.youtube.com/embed/5G_6HsCKeYg">
 </iframe>
 An example of some fun small videos I like to edit
