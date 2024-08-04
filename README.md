@@ -24,14 +24,8 @@ For a couple years i've dabbled in music production. The latest and largest proj
 
 https://github.com/user-attachments/assets/c182e853-7420-4476-9a07-a9b884518f8a
 
-https://github.com/anthonyandres/anthonyandres.github.io/raw/main/assets/nemurumachi%20-%20instrumental%20new%20mix.mov
-
 <video width="320" height="240" controls loop="" muted="" autoplay="">
   <source src="https://github.com/anthonyandres/anthonyandres.github.io/raw/main/assets/nemurumachi%20-%20instrumental%20new%20mix.mov">
-</video>
-
-<video width="320" height="240" controls loop="" muted="" autoplay="">
-  <source src="https://github.com/user-attachments/assets/c182e853-7420-4476-9a07-a9b884518f8a">
 </video>
 
 ## Apron and Tote Bag
@@ -51,28 +45,38 @@ Not to be confused with the microphone I talked about in the above section, but 
 
 https://github.com/user-attachments/assets/5642b6c4-377a-4720-ac31-dce387c19200
 
-
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+  <source src="https://github.com/user-attachments/assets/5642b6c4-377a-4720-ac31-dce387c19200">
+</video>
 
 https://github.com/user-attachments/assets/9d66c606-3bb4-4ea0-ad3e-94daee3d542e
 
-
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+  <source src="https://github.com/user-attachments/assets/9d66c606-3bb4-4ea0-ad3e-94daee3d542e">
+</video>
 
 https://github.com/user-attachments/assets/2c556fdb-5e05-423b-882c-ef14b7d0b3f8
 
-
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+  <source src="https://github.com/user-attachments/assets/2c556fdb-5e05-423b-882c-ef14b7d0b3f8">
+</video>
 
 https://github.com/user-attachments/assets/f5b2cf2c-722b-4937-ac84-5a6a163e1845
 
-
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+  <source src="https://github.com/user-attachments/assets/f5b2cf2c-722b-4937-ac84-5a6a163e1845">
+</video>
 
 https://github.com/user-attachments/assets/6940710f-ec30-4420-9a58-a63c77df77e7
 
-
+<video width="320" height="240" controls loop="" muted="" autoplay="">
+  <source src="https://github.com/user-attachments/assets/6940710f-ec30-4420-9a58-a63c77df77e7">
+</video>
 
 https://github.com/user-attachments/assets/f259b903-2d16-4557-a400-b52d2b883f81
 
 <video width="320" height="240" controls loop="" muted="" autoplay="">
-  <source src="https://github.com/anthonyandres/anthonyandres.github.io/raw/main/assets/0001-0040.mov">
+  <source src="https://github.com/user-attachments/assets/f259b903-2d16-4557-a400-b52d2b883f81">
 </video>
 
 #### 
