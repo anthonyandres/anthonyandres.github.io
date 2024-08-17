@@ -4,8 +4,7 @@
 ##### For my programming projects, visit my GitHub Profile located underneath my portrait!
 #### Technical Skills: Java, C, Python, Blender, Soldering, Sewing, Ableton Live 11, FL Studio, Davinci Resolve, Krita, Audacity
 
-#### [My Youtube Channel](https://www.youtube.com/@anthong_/videos)
-My youtube channel contains other projects including digital drawings, custom keyboard projects, and videography!
+#### [My Youtube channel](https://www.youtube.com/@anthong_/videos) contains other projects including digital drawings, custom keyboard projects, and videography!
 
 <br>
 ## List of Projects
@@ -84,6 +83,7 @@ I've always been interested in expressing my creativity in as many ways as I can
 Of course, sewing is still a learning experience for me, and currently I am still learning about new tips and tricks that I can implement in my projects everyday! Many of these range from fundemental tricks to advnaced techniques, such as creative seam allowances faster and easier, to sewing different types of seams or alternatives to a serger machine.
 ![apron](https://github.com/user-attachments/assets/66a94ad5-9435-4b43-955b-00b7dd93beb2)
 This Apron was the first piece I sewed. I used a non stretch cotton fabric, as well as some extra material from my totebag below for the lettering on the front pocket. This project helped me learn to sew in my raw edges in a straight line.
+<br>
 ![tote](https://github.com/user-attachments/assets/26a23f36-6fdc-4be1-a5d0-a97cd9d9af0e)
 This totebag is my second project. I used a stretch corduroy fabric from some old pants. The stretch fabric was very thick, and I did not anticipate how difficult it would be to sew on a thick stretchy material. I had to get specific needles in order for me to sew some of the thicker parts of the bag. I wanted a rougher more raw look for this totebag, so I used white thread which helped me see how poor my seams were! As you can see on the pockets, they are not very straight and bunch up at some areas. This was a result of my inexpereience with the fabric, as well as my inexperience with the tension of the machine. However, since then I have learned about these mistakes and hope to implement them in my later projects!
 
