@@ -1,4 +1,4 @@
-# Portfolio 2024
+# Fun Side Projects 2024
 
 #### This website contains relevant projects outside of any projects done for school that are listed elsewhere in my GitHub account!
 ##### For my programming projects, visit my GitHub Profile located underneath my portrait!
